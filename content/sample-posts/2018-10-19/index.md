@@ -1,30 +1,69 @@
 ---
-title: "Upgraded to Gatsby v2"
+title: "Welcome to security+ study."
 cover: "https://unsplash.it/1280/900/?random?TheFallenTime"
-author: "casper"
-date: "2018-10-19"
-category: "Gatsby"
+author: "Kaz
+date: "2020-04-20
+category: "Security+"
 tags:
-    - gatsby
-    - v2
+    - IT
+    - certification
 ---
-This starter has been forked and upgraded to Gatsby v2.
+Welcome to the the IT study. 
 
-This is a Gatsby v2 fork of [gatsby-starter-casper](https://github.com/haysclark/gatsby-starter-casper) by [@haysclark](https://github.com/haysclark). The upgrade to v2 was mostly done by [@hnspn](https://github.com/hnspn) with a little help from the folks at [GatsbyCentral](https://www.gatsbycentral.com/).
+This page is for the security+ COMPTIA ceritfication and every week I will be hosting a study session as well as comperhention on the exam.
 
-Here's a little recommended reading for Gatsby v2.
+But this page will serve as a navigation for alot of the information pertaining to the exam from key concepts to specific details about the test.
 
-* First, [what's new in v2](https://www.gatsbycentral.com/whats-new-in-gatsby-v2)
-* Next, [when should I upgrade?](https://www.gatsbycentral.com/when-should-i-upgrade-to-gatsby-v2)
-* [The Gatsby v2 announcement blog post](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/)
 
-If you **do decide to upgrade**, these articles will help you do that.
+- [Introduction](#intro)
+  * [Where to start?](#start-here)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
 
-* [Getting started with Gatsby v2](https://www.gatsbycentral.com/getting-started-with-gatsby-v2)
-* [Should I rebuild my site for Gatsby v2?](https://www.gatsbycentral.com/should-i-rebuild-my-site-for-gatsby-v2)
-* [How do layouts work in Gatsby v2](https://www.gatsbycentral.com/how-do-layouts-work-in-gatsby-v2)
-* [StaticQuery in Gatsby v2](https://www.gatsbycentral.com/staticquery-in-gatsby-v2)
 
-Finally, here's a cheat sheet we prepared to help during the upgrade:
+# Heading levels
 
-* [Gatsby v2 refactoring cheat sheet](https://www.gatsbycentral.com/gatsby-v2-refactoring-cheat-sheet)
+> This is a fixture to test heading levels
+
+<!-- toc -->
+
+## Heading
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
+
+## Heading
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
+
+## Heading
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
