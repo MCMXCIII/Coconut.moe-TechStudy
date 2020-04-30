@@ -1,7 +1,7 @@
 ---
 title: "Welcome to security+ study."
 cover: "https://unsplash.it/1280/900/?random?TheFallenTime"
-author: "Kaz
+author: "Kaz"
 date: "2020-04-20
 category: "Security+"
 tags:
