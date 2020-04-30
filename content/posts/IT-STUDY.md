@@ -5,8 +5,6 @@ author: "Kaz"
 date: "2020-04-20
 category: "Security+"
 tags:
-    - IT
-    - certification
 ---
  # Welcome to the the IT study. 
 
